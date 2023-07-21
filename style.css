@@ -358,7 +358,7 @@ main {
     position: relative;
     margin: auto;
     top: 12px;
-    height: 10vh;
+    height: 100%;
     right: 0;
     width: fit-content;
     padding: 0;
