@@ -115,6 +115,7 @@ main {
   font-family: "Montserrat";
   color: var(--lightGray);
   cursor: default;
+  text-align: center;
 }
 /*animated typing text*/
 .wrapper {
@@ -350,9 +351,6 @@ main {
  
   .nav-ul {
     display: none;
-  }
-  .name{
-  text-align: center;
   }
   .active {
     display: flex;
