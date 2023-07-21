@@ -357,7 +357,7 @@ main {
     background-color: var(--lightGray);
     position: relative;
     margin: auto;
-    top: 12px;
+    top: 20px;
     height: 100%;
     right: 0;
     width: fit-content;
