@@ -347,21 +347,22 @@ main {
 }
 
 @media screen and (max-width: 860px) {
+ 
   .nav-ul {
     display: none;
   }
   .active {
     display: flex;
-    color: black;
+    color: var(--dark);
     background-color: var(--lightGray);
-    position: absolute;
+    position: relative;
     margin: auto;
-    top: 1.5em;
+    top: 12px;
     height: 10vh;
     right: 0;
     width: fit-content;
     padding: 0;
-    margin-right: 1em;
+    margin-right: -3em;
     animation: none;
   }
   .burger {
