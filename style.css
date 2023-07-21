@@ -351,6 +351,9 @@ main {
   .nav-ul {
     display: none;
   }
+  .name{
+  text-align: center;
+  }
   .active {
     display: flex;
     color: var(--dark);
